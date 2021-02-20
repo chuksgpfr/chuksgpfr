@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+⚡ Fun fact: I'm a Software Engineer with wide-ranging expertise and 4 years experience in Backend Engineering. I also build Mobile Applications with React Native and I build frontend applications with React JS. I am what you call a FullStack Developer.
 <!--
 **chuksgpfr/chuksgpfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
