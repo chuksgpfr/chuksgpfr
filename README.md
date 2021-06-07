@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-⚡ Fun fact: I'm a Backend Engineer with wide-ranging expertise and 3 years experience in Backend Engineering. System Architect and Micro services designs.
-I have interest in building FinTech solutions across the globe, with secondary interest in MedTech
+⚡ About Me: My name is Chukwudi and I’m a Backend Engineer with 3 years technical experience building scalable APIs and web apps. I’ve worked with JavaScript, Node.js, React, TypeScript, Hapi JS, Prisma JS etc
 
-- 🔭 I’m currently working on Flipp App
+- 🔭 I’m currently working on Abeg App
 - 🌱 I’m currently learning how to be a ninja
-- 👯 I’m looking to collaborate on open source node js peojects 
+- 👯 I’m looking to collaborate on open source node js projects 
 - 🤔 I’m looking for help with remote jobs
 - 💬 Ask me about node js, system architecture and micro services
 - 📫 How to reach me: chuksgpfr@gmail.com
