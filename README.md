@@ -5,7 +5,7 @@
 - 🔭 I’m currently working an a very interesting SaaS platform
 - 🌱 I’m currently learning how to be a ninja
 - 👯 I’m looking to collaborate on open source node js projects 
-- 🤔 I’m looking for help with remote jobs
+- 🤔 I’m looking for help with CTO roles
 - 💬 Ask me about node js, system architecture and micro services
 - 📫 How to reach me: chuksgpfr@gmail.com
 - 😄 Pronouns: give/me/money
