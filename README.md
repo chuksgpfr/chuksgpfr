@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ About Me: My name is Chukwudi and I’m a Software Engineer with 7 years technical experience building scalable APIs and web apps. I’ve worked with JavaScript, Node.js, React, React Native, TypeScript, Hapi JS, Prisma JS etc
+⚡ About Me: My name is Chuks and I’m a Software Engineer with 7 years technical experience building scalable APIs and web apps. I’ve worked with JavaScript, Node.js, React, React Native, TypeScript, Hapi JS, Prisma JS etc
 
 - 🔭 I’m currently working an a very interesting SaaS platform
 - 🌱 I’m currently learning how to be a ninja
